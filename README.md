@@ -1,0 +1,1 @@
+Configurações Confortaveis do VSCODE
